@@ -10,7 +10,8 @@ const ManualInput = () => {
             <img src={require('./UI icon/Scroll_group.png')} className="ManualSample" />
             
         </div>
-        <Link to="/discover" className='ManualSubmit'>Submit </Link>
+        <div>
+        <Link to="/discover" className='ManualSubmit'>Submit </Link></div>
         </div>
     );
 };

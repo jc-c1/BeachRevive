@@ -1,14 +1,7 @@
 /* F5F5F5 = background colour */
 /* Profile.css */
 
-.TS{
-    /* display: flex; */
-    position: absolute;
-    top: 4%;
-    /* justify-content: center;
-    align-items: center;
-    height: 100vh; */
-}
+
 
 .responsive-image {
     max-width: 100%;
